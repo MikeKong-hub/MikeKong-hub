@@ -17,7 +17,7 @@ I'm a passionate business analyst with a love for open source and collaborative 
 ## 📫 How to reach me
 
 - GitHub: [MikeKong-hub](https://github.com/MikeKong-hub)
-- LinkedIn: [Kong Zhen Mike]([https://www.linkedin.com/in/mikekong](https://www.linkedin.com/in/kong-zhen-mike-06854b253/))
+- LinkedIn: [Kong Zhen Mike][https://www.linkedin.com/in/kong-zhen-mike-06854b253/]
 - Email: [zhenmike7186@gmail.com]
 
 ## 🌱 Currently Learning
